@@ -1,2 +1,2 @@
 This is my little project with aiogram - bot, who converts info from xlsx file to sqlitetable.
-To install it - copy project to your computer, input command python: -m pip install -r requirements.txt
+To install it - copy project to your computer, input command python: -m pip install -r requirements.txt, and add .env file with your telegram_token
